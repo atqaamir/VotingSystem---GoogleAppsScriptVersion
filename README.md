@@ -1,5 +1,4 @@
-# Presidential-Elections-System---Google-Apps-Script-Version
-
+# Presidential Elections System 
 
  ### PSA Voting Verification - Google Apps Script
  
